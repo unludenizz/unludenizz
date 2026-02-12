@@ -1,50 +1,57 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ H E A D E R ░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00264d,50:003d80,75:0066cc,100:00BFFF&height=250&section=header&text=Deniz%20Ünlü&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Crafting%20the%20Future%20of%20Mobile&descSize=20&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a1628,30:0d2137,50:0f3460,70:1a5276,85:2196F3,100:00BFFF&height=280&section=header&text=Deniz%20Ünlü&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20Mobile%20Specialist%20%E2%80%A2%20Creator%20of%20Fitquro&descSize=17&descAlignY=55&descAlign=50" width="100%" />
 
-<!-- ═══════════════════════ ANIMATED INTRO ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░ T Y P I N G   S V G ░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Software+Developer+%7C+Mobile+Specialist;%F0%9F%93%B1+Creator+of+Fitquro;%F0%9F%8C%8D+Based+in+%C4%B0zmir%2C+Turkey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%E2%9A%A1+Turning+ideas+into+mobile+experiences;%F0%9F%93%B1+Building+Fitquro+%E2%80%94+AI+Fitness+App;%F0%9F%8C%8D+Based+in+%C4%B0zmir%2C+Turkey;%F0%9F%9A%80+Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ A B O U T   M E ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 
-<br><br>
+</div>
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧑‍💻 About Me
+### 🧑‍💻 &nbsp;About Me
 
-```javascript
+```js
 const deniz = {
-  pronouns: "he" | "him",
   location: "İzmir, Turkey 🇹🇷",
   role: "Software Developer",
   focus: "Mobile App Development",
   currentProject: "Fitquro 📱",
-  funFact: "I debug with ☕ and 🎵"
+  dailyFuel: "Coffee ☕ + Music 🎵"
 };
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Quick Facts
+### ⚡ &nbsp;Quick Facts
 
-- 🔭 Building **Fitquro** — next-gen fitness tracking
-- 🌱 Deep diving into **AI & Machine Learning**
-- 💡 Turning complex problems into **elegant solutions**
-- 🎯 Goal: Make fitness accessible to everyone
-- ⚙️ I love clean code & pixel-perfect UIs
+🔭 &nbsp;Building **Fitquro** — AI-powered fitness tracking  
+🌱 &nbsp;Currently exploring **AI & Machine Learning**  
+💡 &nbsp;I love turning complex problems into **simple solutions**  
+🎯 &nbsp;Mission: Make fitness accessible to everyone  
+✨ &nbsp;Clean code enthusiast & pixel-perfect UI lover
 
 </td>
 </tr>
@@ -52,27 +59,47 @@ const deniz = {
 
 <br>
 
-<!-- ═══════════════════════ FEATURED PROJECT ═══════════════════════ -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a33&height=1" />
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ F E A T U R E D   P R O J E C T ░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0d1117&height=1" />
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Project
+## 🚀 &nbsp;Featured Project
 
 <br>
 
 <table>
 <tr>
-<td>
+<td align="center" width="100%">
 
-**🏋️ Fitquro** — *Your AI-Powered Fitness Companion*
+<br>
 
-> A next-generation fitness tracking app that combines<br>
-> cutting-edge AI with beautiful design to deliver<br>
-> personalized workout plans & nutrition insights.
+<img src="https://img.shields.io/badge/🏋️_FITQURO-Your_AI--Powered_Fitness_Companion-00BFFF?style=for-the-badge&labelColor=0d1117" />
 
-`React Native` `Node.js` `AI/ML` `Firebase`
+<br><br>
+
+A next-generation fitness tracking app that combines  
+**cutting-edge AI** with **beautiful design** to deliver  
+personalized workout plans & nutrition insights.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%2FML-0d1117?style=flat-square&logo=openai&logoColor=00BFFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+
+<br><br>
 
 </td>
 </tr>
@@ -80,61 +107,92 @@ const deniz = {
 
 <br>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░ T E C H   S T A C K ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a33&height=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0d1117&height=1" />
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Arsenal
+## 🛠 &nbsp;Tech Stack
 
 <br>
 
 <table>
 <tr>
 <td align="center" width="25%">
+
+<br>
 
 **📱 Mobile & Frontend**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,js,ts" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,js,ts&theme=dark" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=white" />
 
+<br><br>
+
 </td>
 <td align="center" width="25%">
-
-**⚙️ Backend & APIs**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,js" /><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br><br>
+**⚙️ Backend & Database**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&theme=dark" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
 
+<br><br>
+
 </td>
 <td align="center" width="25%">
+
+<br>
 
 **🎨 Design & Styling**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,css" /><br><br>
+<img src="https://skillicons.dev/icons?i=figma,tailwind,css&theme=dark" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+
+<br><br>
 
 </td>
 <td align="center" width="25%">
 
-**🔧 Tools & DevOps**
+<br>
+
+**🔧 Tools & Environment**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=github,vscode,linux" /><br><br>
+<img src="https://skillicons.dev/icons?i=github,vscode,linux&theme=dark" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Antigravity_AI-0d1117?style=flat-square&logo=google&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/WSL-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
+
+<br><br>
 
 </td>
 </tr>
@@ -142,70 +200,73 @@ const deniz = {
 
 <br>
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ G I T H U B   S T A T S ░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a33&height=1" />
-
-<br>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0d1117&height=1" />
 
 <br>
 
-<p>
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF&ring_color=00BFFF&border_radius=12" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unludenizz&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=00BFFF&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=555555&border_radius=12" />
-</p>
+## 📊 &nbsp;GitHub Analytics
 
 <br>
 
-<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=unludenizz&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_radius=12&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0d1117&title_color=2196F3&text_color=c9d1d9&icon_color=2196F3&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unludenizz&hide_border=true&background=0d1117&ring=2196F3&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2196F3&sideLabels=2196F3&dates=555555&border_radius=10" />
 
 <br><br>
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
+<img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=unludenizz&layout=compact&hide_border=true&bg_color=0d1117&title_color=2196F3&text_color=c9d1d9&border_radius=10&langs_count=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unludenizz&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00264d&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline&radius=12" width="95%" />
+<br><br>
 
-<br>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a33&height=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unludenizz&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&area_color=0d2137&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Graph&radius=10" width="95%" />
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░ C O N N E C T ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0d1117&height=1" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/deniz-unlu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35" />
-</a>&nbsp;
-<a href="mailto:unluu.denizz@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35" />
-</a>&nbsp;
+## 🤝 &nbsp;Let's Connect
+
+<br>
+
+<a href="https://www.linkedin.com/in/SENIN-KULLANICI-ADIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:seninmailin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/unludenizz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" />
-</a>&nbsp;
-<a href="https://twitter.com/SENIN-KULLANICI-ADIN" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="35" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
 
 <br><br>
 
-<!-- ═══════════════════════ VISITORS & QUOTE ═══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░ Q U O T E ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=unludenizz&label=Profile%20Views&color=00BFFF&style=for-the-badge&abbreviated=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%" />
 
 <br><br>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=unludenizz&label=Profile%20Views&color=2196F3&style=flat-square" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,25:0066cc,50:003d80,75:00264d,100:0d1117&height=120&section=footer" width="100%" />
+<br><br>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░ F O O T E R ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,15:2196F3,30:1a5276,50:0f3460,70:0d2137,85:0a1628,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
