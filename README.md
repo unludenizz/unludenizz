@@ -244,10 +244,6 @@ personalized workout plans & nutrition insights.
 <a href="mailto:unluu.denizz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/unludenizz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-</a>
 
 <br><br>
 
