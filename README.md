@@ -115,7 +115,7 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,mysql" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,js" /><br><br>
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
 
@@ -126,9 +126,9 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,sass,ai,ps" /><br><br>
-<img src="https://img.shields.io/badge/UI%2FUX-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Responsive-0d1117?style=flat-square&logo=google-chrome&logoColor=00BFFF" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind" /><br><br>
+<img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 
 </td>
 <td align="center" width="25%">
@@ -137,9 +137,9 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" /><br><br>
-<img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Agile-0d1117?style=flat-square&logo=jira&logoColor=0052CC" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux" /><br><br>
+<img src="https://img.shields.io/badge/Antigravity_AI-0d1117?style=flat-square&logo=google&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/WSL-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ const deniz = {
 <br>
 
 <p>
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF&ring_color=00BFFF&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF&ring_color=00BFFF&border_radius=12" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unludenizz&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=00BFFF&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=555555&border_radius=12" />
 </p>
 
