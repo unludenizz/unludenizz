@@ -185,7 +185,7 @@ personalized workout plans & nutrition insights.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,postman&theme=dark" />
 
 <br><br>
 
