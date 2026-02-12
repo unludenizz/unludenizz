@@ -98,7 +98,7 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,js,ts" /><br><br>
 <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=white" />
 
@@ -109,7 +109,8 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,js" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,firebase,js" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br><br>
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
 
@@ -120,7 +121,7 @@ const deniz = {
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind" /><br><br>
+<img src="https://skillicons.dev/icons?i=figma,tailwind,css" /><br><br>
 <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 
@@ -165,30 +166,6 @@ const deniz = {
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unludenizz&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00264d&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline&radius=12" width="95%" />
-
-<br>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a33&height=1" />
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=unludenizz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-<br><br>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unludenizz/unludenizz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unludenizz/unludenizz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/unludenizz/unludenizz/output/github-snake-dark.svg" width="95%" />
-</picture>
 
 <br>
 
