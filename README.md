@@ -18,4 +18,4 @@
 
 ### 📊 GitHub İstatistiklerim
 ![Deniz's Stats](https://github-readme-stats.vercel.app/api?username=unludenizz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unludenizz&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=unludenizz&layout=compact&theme=dark)
