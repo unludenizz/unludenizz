@@ -62,12 +62,6 @@ const deniz = {
 
 <br>
 
-<a href="https://github.com/unludenizz/fitquro">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=unludenizz&repo=fitquro&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&border_color=0d2137&border_radius=12" />
-</a>
-
-<br><br>
-
 <table>
 <tr>
 <td>
