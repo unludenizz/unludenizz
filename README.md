@@ -18,5 +18,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 📊 GitHub İstatistiklerim
-![Deniz's Stats](https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=unludenizz&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unludenizz&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Deniz's Stats](https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true)
