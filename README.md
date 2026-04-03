@@ -212,7 +212,9 @@ personalized workout plans & nutrition insights.
 
 <br>
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=unludenizz&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=0d1117&title_color=2196F3&text_color=c9d1d9&icon_color=2196F3&border_radius=10" />
+<a href="https://gitarena.dev">
+  <img src="https://gitarena.dev/api/badge/unludenizz?timeframe=total&theme=light&color=blue" alt="GitArena Stats" width="540" height="210" />
+</a>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unludenizz&hide_border=true&background=0d1117&ring=2196F3&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2196F3&sideLabels=2196F3&dates=555555&border_radius=10" />
 
 <br><br>
