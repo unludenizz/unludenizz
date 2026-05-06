@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a1628,30:0d2137,50:0f3460,70:1a5276,85:2196F3,100:00BFFF&height=280&section=header&text=Deniz%20Ünlü&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20%26%20Web%20Specialist%20%E2%80%A2%20Creator%20of%20Fitquro&descSize=17&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a1628,30:0d2137,50:0f3460,70:1a5276,85:2196F3,100:00BFFF&height=280&section=header&text=Deniz%20Ünlü&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20and%20Web%20Specialist%20%E2%80%A2%20Creator%20of%20Fitquro&descSize=17&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%E2%9A%A1+Turning+ideas+into+digital+experiences;%F0%9F%93%B1+Building+Fitquro+%26+UstamaGore;%F0%9F%8C%8D+Based+in+%C4%B0zmir%2C+Turkey;%F0%9F%9A%80+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=%E2%9A%A1+Turning+ideas+into+digital+experiences;%F0%9F%93%B1+Building+Fitquro+and+UstamaGore;%F0%9F%8C%8D+Based+in+%C4%B0zmir%2C+Turkey;%F0%9F%9A%80+Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br>
